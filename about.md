@@ -32,7 +32,7 @@ I'm a beginning developer passionate about learning Python and web development. 
 
 Feel free to reach out if you're also learning to code or have any tips to share!
 
-- **GitHub**: [@bermudef](https://github.com/bermudef)
+- **GitHub**: @bermudef
 - **Email**: [Bermudef@gmail.com](mailto:Bermudef@gmail.com)
 - **LinkedIn**: [felipebermudez](https://linkedin.com/in/felipebermudez)
 - **Twitter**: [@bermudef83](https://twitter.com/bermudef83)
