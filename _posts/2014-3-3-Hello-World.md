@@ -7,10 +7,10 @@ Welcome to my development blog! I've just set up this GitHub Pages site to docum
 
 ## What I've Accomplished So Far
 
-- ✅ Set up GitHub Pages with Jekyll Now theme
-- ✅ Customized _config.yml with my personal information
-- ✅ Created my first blog post (this one!)
-- ✅ Started learning Python with Beautiful Soup tutorials
+✅ Set up GitHub Pages with Jekyll Now theme
+✅ Customized _config.yml with my personal information
+✅ Created my first blog post (this one!)
+✅ Started learning Python with Beautiful Soup tutorials
 
 ## What's Next
 
